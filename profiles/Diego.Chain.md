@@ -1,18 +1,20 @@
 # Profile: <Seu Nome Completo>
 
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+> **Role atual:** [Analista de Requisitos/Analista de Negócios/Scrum Master] 
+> **Status:** [Buscando aprimorar conhecimentos em desenvolvimento em nuvem]
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
-- [...]
+- [Python]
+- [Java]
 
 ## 🛡️ Pipeline da Carreira
-1. **História:** Sua carreira a partir dos principais marcos: início, principais mudanças e o que levou à posição atual.
-2. **Objetivos:** Como espera que o curso seja e o que acha que vai aprender.
-3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
-
+1. **História:** Formado em economia, busquei a migração de carreira para TI na Caixa. Estou há 1 ano e meio trabalhando na área de TI.
+2. **Objetivos:** Espero que eu aprimore meus conhecimentos com esteiras, pipelines de segurança e conhecimentos de desenvolvimento.
+3. **Expectativas:** Aprimoramento de Carreira, novos conhecimentos
 ## 💬 Commit Summary
 `feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(carreira): Analsita de Negócios; goal: Aprender; expect: Aprender`
+
+
+
+
