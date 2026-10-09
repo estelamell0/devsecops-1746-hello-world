@@ -78,25 +78,3 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 Cole essa chave nas configurações de SSH da sua conta no GitHub/GitLab (`Settings > SSH and GPG keys`).
-
-## 4. Clonar o Repositório e Acessar o Diretório
-
-Copie a URL do repositório do curso e execute o comando correspondente ao método de autenticação escolhido:
-
-### Via HTTPS
-
-```bash
-git clone git@github.com:estelamell0/devsecops-1746-hello-world.git
-```
-
-### Via SSH
-
-```bash
-git clone git@github.com:estelamell0/devsecops-1746-hello-world.git
-```
-
-Entre no diretório clonado para começar a atividade:
-
-```bash
-cd devsecops-onboarding
-```
