@@ -78,3 +78,8 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 Cole essa chave nas configurações de SSH da sua conta no GitHub/GitLab (`Settings > SSH and GPG keys`).
+
+
+
+
+Simulação de bug adicionada de propósito
