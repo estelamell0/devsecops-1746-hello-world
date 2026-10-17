@@ -1,11 +1,11 @@
 # Profile: <Seu Nome Completo>
 
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+> **Role atual:** Analista Pleno  
+> **Status:** Especializando em Cloud / DevSecOps]
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
+- Docker / Kubernetes
+- DevSecOps / Clouds
 - [...]
 
 ## 🛡️ Pipeline da Carreira
@@ -14,5 +14,5 @@
 3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
 
 ## 💬 Commit Summary
-`feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(profile): adiciona perfil de giba-pinheiro`
+`feat(carreira): analista pleno; goal: Evoluir na carreira; expect: Ampliar conhecimentos em cloud, docker, kubernetes, DevSecOps`
